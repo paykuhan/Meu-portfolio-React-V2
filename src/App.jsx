@@ -8,7 +8,7 @@ function App() {
       <Header />
       
       <main>
-        {/* Sua seção Sobre original idêntica */}
+        {/* seção Sobre */}
         <section id="sobre">
           <div className="container">
             <h1>Olá! Sou Dawillams Monteiro.</h1>
@@ -22,7 +22,7 @@ function App() {
         <Projetos />
       </main>
 
-      {/* Seu rodapé original */}
+      {/* Rodapé */}
       <footer>
         <div className="container">
           <p>© 2026 - Desenvolvido por Dawillams Monteiro</p>
@@ -35,7 +35,7 @@ function App() {
         </div>
       </footer>
 
-      {/* Seu botão de WhatsApp original com o texto exato */}
+      {/* Botão de WhatsApp */}
       <a href="https://wa.me/5586994941106?text=Olá%20Dawillams,%20vi%20seu%20portfólio%20e%20quero%20conversar!" 
          target="_blank" 
          className="whatsapp-btn"
