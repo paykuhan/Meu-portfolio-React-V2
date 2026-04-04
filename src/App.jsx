@@ -13,7 +13,6 @@ function App() {
           <div className="container">
             <h1>Olá! Sou Dawillams Monteiro.</h1>
             <p className="legenda">Trabalho com montagem e manutenção de computadores.</p>
-            
             <p>Graduando em Tecnologia em Sistemas para a Internet. Desenvolvedor iniciante, fascinado por tecnologia desde a infância.</p> 
             <p>Desejo transformar linhas de códigos em soluções reais que facilitem a vida das pessoas.</p>
             <a href="#projetos" className="btn-primary">Ver Meus Projetos</a>
